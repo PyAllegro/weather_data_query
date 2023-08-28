@@ -15,10 +15,10 @@ import pymysql
 import log
 from log import log_create
 
-accountInfo = {"host": "123.60.171.53",
-               "user": "root",
-               "passwd": "qazWSX123EDC-",
-               "db": "emqx_yiwei",
+accountInfo = {"host": "23423423423",
+               "user": "23423423432",
+               "passwd": "234234234",
+               "db": "234234234",
                "charset": "utf8"
                }
 
